@@ -1,0 +1,5 @@
+D:\Semester 4\Konstruksi Perangkat Lunak\praktikum\repos\modul3_1302200067\modul3_1302200067\obj\Debug\net6.0\modul3_1302200067.csproj.AssemblyReference.cache
+D:\Semester 4\Konstruksi Perangkat Lunak\praktikum\repos\modul3_1302200067\modul3_1302200067\obj\Debug\net6.0\modul3_1302200067.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 4\Konstruksi Perangkat Lunak\praktikum\repos\modul3_1302200067\modul3_1302200067\obj\Debug\net6.0\modul3_1302200067.AssemblyInfoInputs.cache
+D:\Semester 4\Konstruksi Perangkat Lunak\praktikum\repos\modul3_1302200067\modul3_1302200067\obj\Debug\net6.0\modul3_1302200067.AssemblyInfo.cs
+D:\Semester 4\Konstruksi Perangkat Lunak\praktikum\repos\modul3_1302200067\modul3_1302200067\obj\Debug\net6.0\modul3_1302200067.csproj.CoreCompileInputs.cache
